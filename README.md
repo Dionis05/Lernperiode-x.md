@@ -43,3 +43,11 @@ Heute habe ich die Grobplanung und auch die Feinplanung gemacht und abgeschlosse
 (In dieser Lernperiode habe ich... (50-100 Wörter))
 Ich habe heute die grobplanung und Feinplanung fertig gemacht und beendet. Dazu habe ihc noch den auftrag erledigt, den mir Herr lauk gezeigt hat bei Modull Ims Atellier. Ich muss aber sagen, dass es schwierig für mich war und ich es am Anfang nicht verstanden habe, jedoch als es mir der Herr Lauk erklärte, verstand ich das meiste, deswegen bin ich ihm sehr dankbar.
 
+
+tages reflexion 05.09.2025:
+ ICh habe eher an Modul 431 gearbeitet, ich habe es jedoch erst spät gemerkt, dass die Aufgaben für experten sind und teilweise erweiterte Aufgaben. Als ich dies merkte, arbeitete ich weiter an Auftrag 1715 in Modul 431, und dann war der Tag schon fertig.
+
+
+ feinPlanung 12.09.2025:
+ 1.) Mission 7 fertig machen
+ 2.) Weiter an Modul 431 machen
