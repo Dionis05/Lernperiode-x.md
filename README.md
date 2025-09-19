@@ -1,6 +1,6 @@
 # Lernperiode-x.md
 # Lern-Periode 1
-Name: Exemplibus Exemplio
+Name:Dionis Beqa
 
 12.08.2024 bis 29.09.2024
 
@@ -44,10 +44,49 @@ Heute habe ich die Grobplanung und auch die Feinplanung gemacht und abgeschlosse
 Ich habe heute die grobplanung und Feinplanung fertig gemacht und beendet. Dazu habe ihc noch den auftrag erledigt, den mir Herr lauk gezeigt hat bei Modull Ims Atellier. Ich muss aber sagen, dass es schwierig für mich war und ich es am Anfang nicht verstanden habe, jedoch als es mir der Herr Lauk erklärte, verstand ich das meiste, deswegen bin ich ihm sehr dankbar.
 
 
-tages reflexion 05.09.2025:
+tages reflexion 30.09.2025:
  ICh habe eher an Modul 431 gearbeitet, ich habe es jedoch erst spät gemerkt, dass die Aufgaben für experten sind und teilweise erweiterte Aufgaben. Als ich dies merkte, arbeitete ich weiter an Auftrag 1715 in Modul 431, und dann war der Tag schon fertig.
 
 
  feinPlanung 12.09.2025:
  1.) Mission 7 fertig machen
  2.) Weiter an Modul 431 machen
+
+#
+## Planung 12.09.2024
+
+(Heute habe ich... (50-100 Wörter))
+
+Ich habe heute geplant gehabt, Mission 7 fertig zu machen in Modul 319 und dazu noch an Modul 431 zu arbeiten.e
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (50-100 Wörter))
+In dieser  Lernperiode habe ich meine Ziele erfolgreich erfüllt.
+tages reflexion 12.09.2025:
+ich bin stolz auf mich, da ich miene Ziele von letzter Woche erfüllt habe
+
+ feinPlanung 19.09.2025:
+ 1.) Mission 8 fertig machen
+ 2.) Weiter an Modul 431 machen
+ 3.) Für Tests lernen, wenn ich ausreichend gerarbeitet habe.
+ 
+ ## Planung 19.08.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+
+- [ x] Mission 8 fertig machen
+- [ x] An Modul 431 arbeiten
+- [ ] Franz lernen
+
+(Heute habe ich... (50-100 Wörter))
+
+
+
+
+tages reflexion 19.09.2025:
+
+ feinPlanung 26.09.2025:
+ 1.) 
+ 2.)
+
+ 
