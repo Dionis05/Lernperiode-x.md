@@ -94,19 +94,20 @@ tages reflexion 19.09.2025:Ich habe mehrheitlich Französisch gelernt, da ich an
 3 bis 5 klar messbare Arbeitspakete.
 
 
-- [ ] Mission 9 fertig machen
-- [ ] An Modul 431 arbeiten
+- [x] Mission 9 fertig machen
+- [x ] An Modul 431 arbeiten
 - [ ]  Geo lernen
 
 
 
-tages reflexion 26.09.2025:Ich habe mehrheitlich Französisch gelernt, da ich an diesem tag einen test darüber hatte. ich finde, dass ich das nötig hatte, jedoch arbeitete ich noch ein wenig an Modul 8 und an Modul 431.
-
+tages reflexion 26.09.2025:
+-
+-
 
 
 
  Planung .10.2025:
- 1.) Geo lernen
+ 1.)
  2.)
 
  
