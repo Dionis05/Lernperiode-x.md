@@ -76,17 +76,37 @@ ich bin stolz auf mich, da ich miene Ziele von letzter Woche erfüllt habe
 
 - [ x] Mission 8 fertig machen
 - [ x] An Modul 431 arbeiten
-- [ ] Franz lernen
-
-(Heute habe ich... (50-100 Wörter))
+- [ x] Franz lernen
 
 
 
+tages reflexion 19.09.2025:Ich habe mehrheitlich Französisch gelernt, da ich an diesem tag einen test darüber hatte. ich finde, dass ich das nötig hatte, jedoch arbeitete ich noch ein wenig an Modul 8 und an Modul 431.
 
-tages reflexion 19.09.2025:
 
- feinPlanung 26.09.2025:
- 1.) 
+
+
+ Planung 26.09.2025:
+ 1.) Geo lernen
+ 2.)
+
+ 
+ ## Planung 26.08.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+
+- [ ] Mission 9 fertig machen
+- [ ] An Modul 431 arbeiten
+- [ ]  Geo lernen
+
+
+
+tages reflexion 26.09.2025:Ich habe mehrheitlich Französisch gelernt, da ich an diesem tag einen test darüber hatte. ich finde, dass ich das nötig hatte, jedoch arbeitete ich noch ein wenig an Modul 8 und an Modul 431.
+
+
+
+
+ Planung .10.2025:
+ 1.) Geo lernen
  2.)
 
  
